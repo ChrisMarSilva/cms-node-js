@@ -1,0 +1,20 @@
+{
+  "name": "testenodejs",
+  "version": "1.0.0",
+  "main": "test.node.jd.call.api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aspnet/signalr": "^1.0.27",
+    "@microsoft/signalr": "^8.0.0",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
